@@ -18,14 +18,20 @@ The project task is to provide weather information for list of randomly selected
 
 ### Deliverable 3
 * Select four (4) cities close in proximity to one another and in the same country
-
+* Display a map of the cities with directional layer
+* Display a map of the cities with hotel name and weather information in markers
 
 ## Resources
 - Data Source: city_data.csv, ride_data.csv
-- Software: Python 3.9.12, Jupyterlab 3.3.2, Pandas 1.4.2, MatPlotLib 3.5.1
+- Software: Python 3.9.12, Jupyterlab 3.3.2, Pandas 1.4.2, citypy 0.0.5, numpy 1.21.5, requests 2.27.1
+- APIs: OpenWeatherMap, GoogleMaps
 
 ## Summary of Results
-### Summary of Rides, Drivers and Faires per City TYpe
-![Map of Global Hotels and Weather Information](Vacation_Search/WeatherPy_vacation.PNG)
+### Map of Overall Global Search
+![Map of Overall Global Search](Vacation_Search/WeatherPy_vacation_map.png)
 
+### Map of Four Cities in Japan with Directional Layer
+![Map of Four Cities in Japan with Directional Layer](Vacation_Itinerary/WeatherPy_travel_map.PNG)
 
+### Map of Four Cities in Japan with Markers
+![Map of Four Cities in Japan with Markers](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
