@@ -7,13 +7,17 @@ The project task is to provide weather information for list of randomly selected
 * Retrieve the nearest city using citipy
 * Obtain weather information using an API call to OpenWeatherMap
 * Save the cities and weather data to WeatherPy_Database.csv within the Weather_Database folder
+
 ### Deliverable 2
 * Obtain user info for minimum and maximum temperature preferences
 * Using the data saved in WeatherPy_Database.csv, create DataFrame for cities that meet the minimum and maximum temperature crtieria
 * Using Google Maps API, identify nearest hotels to those selected cities
 * Add hotel info pop-up box data for each of those cities
 * Save the updated cities information to WeatherPy_vacation.csv within the Vacation_Search folder
+* Display Google Map with hotel name and weather information in markers
+
 ### Deliverable 3
+* Select four (4) cities close in proximity to one another and in the same country
 
 
 ## Resources
@@ -22,11 +26,6 @@ The project task is to provide weather information for list of randomly selected
 
 ## Summary of Results
 ### Summary of Rides, Drivers and Faires per City TYpe
-![Ride Share Metrics per City Type](Resources/Ride_Share_Metrics_Summary.PNG)
+![Map of Global Hotels and Weather Information](Vacation_Search/WeatherPy_vacation.PNG)
 
-### Summary of Weekly Fares Collected per City Type from January thru April 201
-![Weekly Fares per City Type](Resources/Weekly_Fares_per_City_Type.PNG)
-
-### Total Fare by City Type Visualization
-![Total Fare by City Type](Resources/Total_Fare_by_City_Type_Chart.PNG)
 
