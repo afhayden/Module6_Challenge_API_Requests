@@ -1,4 +1,4 @@
-# Module6_Challenge_API_Requests
+# Module 6 Challenge API Requests
 The project task is to provide weather information for list of randomly selected cities and closet hotels based on minimumum and max temperature preferences.
 
 ## Summary of Tasks
